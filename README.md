@@ -35,7 +35,7 @@ CaptchaApi::check($captcha,$key) //检查验证码是否正确
 thinkphp6 验证码类库
 
 ## 安装
-> composer require topthink/think-captcha
+> composer require abcphp/think-captcha
 
 
 
